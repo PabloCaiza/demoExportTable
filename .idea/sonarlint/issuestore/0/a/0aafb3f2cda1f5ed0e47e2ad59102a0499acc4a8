@@ -1,0 +1,8 @@
+
+b	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(óø¹ë8ãÅøêí1
+]
+java:S1128";Remove this unused import 'jakarta.faces.bean.ManagedBean'.(éøÔüÿÿÿÿ8óÅøêí1
+T
+java:S1128"2Remove this unused import 'jakarta.inject.Inject'.(‘ø”şÿÿÿÿ8óÅøêí1
+O
+java:S1068"-Remove this unused "customers" private field.(åŒôøüÿÿÿÿ8¢æøêí1

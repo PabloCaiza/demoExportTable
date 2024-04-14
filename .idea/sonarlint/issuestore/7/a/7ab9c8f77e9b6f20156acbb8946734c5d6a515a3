@@ -1,0 +1,19 @@
+
+}
+java:S14881"aImmediately return this expression instead of assigning it to the temporary variable "products1".(¿€¿8ÀŸèÚí1
+d
+java:S6813$"BRemove this field injection and use constructor injection instead.(Áº–üÿÿÿÿ8ÌŸèÚí1
+M
+java:S1948 "+Make "products2" transient or serializable.(—ä˜ïıÿÿÿÿ8ÌŸèÚí1
+K
+java:S1948"".Make "textExporter" transient or serializable.(‹õØò8ÌŸèÚí1
+F
+java:S1948%")Make "service" transient or serializable.(ˆó©ª8ÍŸèÚí1
+]
+java:S1128";Remove this unused import 'jakarta.faces.bean.ManagedBean'.(éøÔüÿÿÿÿ8ØŸèÚí1
+N
+java:S1128"1Remove this unused import 'jakarta.inject.Named'.(¡†Š8ØŸèÚí1
+X
+java:S1128";Remove this unused import 'org.primefaces.model.SortOrder'.(ƒ­ô8ØŸèÚí1
+M
+java:S1068""0Remove this unused "textExporter" private field.(‹õØò8ÙŸèÚí1
